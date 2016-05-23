@@ -1,4 +1,6 @@
 # Shortcake (Shortcode UI) #
+[![Build Status](https://travis-ci.org/awbauer/shortcake.svg?branch=master)](https://travis-ci.org/awbauer/shortcake)
+
 **Contributors:** fusionengineering, mattheu, danielbachhuber, zebulonj, goldenapples, jitendraharpalani, sanchothefat, bfintal, davisshaver, garyj, mte90, fredserva, khromov  
 **Tags:** shortcodes  
 **Requires at least:** 4.1  
